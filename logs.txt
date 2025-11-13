@@ -1,0 +1,513 @@
+[2025-11-12 19:42:26] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:42:37] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:42:37] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:42:37] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=karolo_n
+[2025-11-12 19:42:37] Consultando seguidores: https://www.instagram.com/api/v1/friendships/2911785858/followers/?count=70
+[2025-11-12 19:43:36] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:44:05] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:44:05] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 19:44:06] Consultando seguidores: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=70
+[2025-11-12 19:44:56] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:45:08] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:45:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:45:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:45:12] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 19:45:12] Consultando seguidores: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=70
+[2025-11-12 19:45:48] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:46:38] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:46:38] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:46:38] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=resaltech_1234
+[2025-11-12 19:46:38] Consultando seguidores: https://www.instagram.com/api/v1/friendships/63942671663/followers/?count=70
+[2025-11-12 19:49:18] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:49:18] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:49:18] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=flakys_daya
+[2025-11-12 19:49:18] Consultando seguidores: https://www.instagram.com/api/v1/friendships/9260376750/followers/?count=70
+[2025-11-12 19:49:44] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:50:10] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:50:10] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=flakys_daya
+[2025-11-12 19:50:11] Consultando seguidores: https://www.instagram.com/api/v1/friendships/9260376750/followers/?count=70
+[2025-11-12 19:54:04] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:54:10] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:54:19] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:54:19] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:54:19] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 19:54:19] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50
+[2025-11-12 19:54:20] Acumulados: 24 seguidores...
+[2025-11-12 19:54:20] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCUF9FU2VXbWhIUGJNb29ncXF3dEJ0dWdCZDZDRWJpVmpBSGdIUHh4b0VoRzN1emRoeG1PY3Bhc1VyT1hsWlRMRC1tQmdBclhrOS1CWDFvT05yN2VoZQ==
+[2025-11-12 19:54:20] Acumulados: 46 seguidores...
+[2025-11-12 19:54:20] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCeWdMWnlnUjU4el96MUthQ1JpdHMyeXFoWTktZ2tiTWhtc1NhNlQ3azlJRlRWeGVSWFZQSFlzeWFmOFJpN0pXd1VCVFFGSGVWY3VGZ0RhbVdSdWRHMA==
+[2025-11-12 19:54:21] Acumulados: 71 seguidores...
+[2025-11-12 19:54:21] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEcU5xV19uUHYtRWtRWUJmR0E4NXJpMnkyNGswTm9MTFhsWHh0eUVaQWxTdmY5ZVgtVHhSQ19tWl91NUpwTFlpMkpyUW1rRTliSGk5YWh4NWEybHlabg==
+[2025-11-12 19:54:21] Acumulados: 96 seguidores...
+[2025-11-12 19:54:21] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDajlxOFllYzNFd1B0aWlOVF9nUjZ3T1hrV2NFRVdONGlacHByYTRBdVpyTm9ha0ZmdDZ4MU1tekZ6RHo1Q2hnaExKZ0hjWDgzRF9CMm5laW5HQURIag==
+[2025-11-12 19:54:21] Acumulados: 121 seguidores...
+[2025-11-12 19:54:21] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDdnM4Q3VTYkg2Q0JEemI4UXRuOTRqaFBNbXNacG5qRWZHWkxOYVJOQ0syQVk4UnJfMllOTDRxa2NlVjE1TEp6RzgtUGNfN1psMWhtN05tajJCaXIwMQ==
+[2025-11-12 19:54:22] Acumulados: 146 seguidores...
+[2025-11-12 19:54:22] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCQWNIRFFqbk1qYmZEM2xaRnp4VjY3UEtyYXdqMk1IMUpOVS03NXpWcHV5WjFDVjVEQlBIZzFzN2FQVDRaTjdiQ2ZRM1NITDIyelVZMGttX1EzZVBwTQ==
+[2025-11-12 19:54:22] Acumulados: 170 seguidores...
+[2025-11-12 19:54:22] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBSHl6ZEtHRW5zelZBRjdHSm93UzB1Qjh3T3JFVm4yRWhnaldmLWVpWWhLRDVQYjAwQ0NiUkVocUlSdDNaVmhrOW9DMmxWUDJRek5qWE82TzJSZ1Q0Qg==
+[2025-11-12 19:54:22] Acumulados: 195 seguidores...
+[2025-11-12 19:54:22] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCdHhyMHZIYWpqempzR08yRWpudXN4dXI3dlZjZWVIYnJNQ1F6Y0YxWTJVZ3E2cGg4VmZlUzl5WjVLeDgzQ0N0bWE1REFNdmp0RmpPZEdzb09Tc0w5Yw==
+[2025-11-12 19:54:23] Acumulados: 220 seguidores...
+[2025-11-12 19:54:23] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEaldoVFN0Nk5DbmJBR2MxU1czT1RvSUdFZEtxbGFYT01uWXY2X1NvUVBkY1F0MElXM1o3TExBU1JEWDBWcTdubmRjcWY1aVphOEo3MElVX1hPZWJoVA==
+[2025-11-12 19:54:23] Acumulados: 244 seguidores...
+[2025-11-12 19:54:23] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDRlk3dDBNbzZKWXpwa05FallZQ2tnQUg5TTQtOGQtcUpxbmhCNVd6cEp5Y1dYVmF5LVhMRE1xR0JidFVmd2NWUmVQby0wYnIwaTAtX00tVDk2VzNfLQ==
+[2025-11-12 19:54:23] Acumulados: 269 seguidores...
+[2025-11-12 19:54:23] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFES3dFbFFmRTQweFczMXZ1QWpzOGRpZF8tQVQyVWhmTlRKWnBhbUJtZFZMUlRKbkozT0xTSFBLSUd3c0JDWmFEblBWamNGT0VIM3RCRWhlVllGYTMybA==
+[2025-11-12 19:54:24] Acumulados: 293 seguidores...
+[2025-11-12 19:54:24] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDQjk1WkJkbWlJNzVESTlMQjczam95VTl3TTJSa1V1MTliU0dEWHl4OEd6NEtrakRXM2RfWUtaN2tQbDlDUFJqeWdmZEhzbGtqTEVDVm04OEdEYXZoRQ==
+[2025-11-12 19:54:24] Acumulados: 316 seguidores...
+[2025-11-12 19:57:49] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:57:53] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:58:07] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:58:08] === INICIO DE EJECUCIÓN ===
+[2025-11-12 19:58:08] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=joanita98elita
+[2025-11-12 19:58:08] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/64257882885/followers/?count=50
+[2025-11-12 19:58:09] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 19:58:11] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/64257882885/followers/?count=50&max_id=25
+[2025-11-12 19:58:12] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 19:58:14] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/64257882885/followers/?count=50&max_id=50
+[2025-11-12 19:58:15] 🧮 Acumulados: 74 seguidores...
+[2025-11-12 19:58:17] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/64257882885/followers/?count=50&max_id=75
+[2025-11-12 19:58:18] 🧮 Acumulados: 99 seguidores...
+[2025-11-12 19:58:20] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/64257882885/followers/?count=50&max_id=100
+[2025-11-12 19:58:21] 🧮 Acumulados: 100 seguidores...
+[2025-11-12 19:58:21] ⛔ Instagram no devolvió más paginación. Fin.
+[2025-11-12 20:15:02] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:16:21] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:16:23] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:16:24] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:16:24] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 20:16:25] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50
+[2025-11-12 20:16:25] 🧮 Acumulados: 24 seguidores...
+[2025-11-12 20:16:27] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCUVVPNGVVVlRVamIyRFhDNkRpS2tFQS1TdnVPM190R1lsM3ZtWnkzeEpVMXl5TlRlM2R2NnBTRVpIWnBWdmRkREJYSWIyWTlGNzFLVVRBODJEY0hzXw==
+[2025-11-12 20:16:28] 🧮 Acumulados: 46 seguidores...
+[2025-11-12 20:16:30] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCY3NRbVcwcDMwdWRuRWtRRE5IV3ZMc2RCYkJJaWVtR2FWRXFRajZGb2pWN2VfNmlYanFPVTAwdWwyQkRIUXNTZWowRkl3NGJLamc2RTY3TUYtY3phaA==
+[2025-11-12 20:16:30] 🧮 Acumulados: 71 seguidores...
+[2025-11-12 20:16:32] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDbzY1a1EyaEpodlY5VzAza0t4aDNRVk1lV1V3LTlGYkNIdWRpd2VhYnZoQ3NWYzBwNXVEbzdSNWpUTmMwd28yWndMVllaVEhSNk14Q3FNcG02Wk56NQ==
+[2025-11-12 20:16:32] 🧮 Acumulados: 96 seguidores...
+[2025-11-12 20:16:34] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDNjJSdlh1TFhsTDVQenlpSWRGaGQ0Z0FvdFNESVZIQVVRTTJyVUQ5UDI3Nm10cUYzRUIzM2hsZWtUV25tSXFWcTl5dW95Vmh2X2NjcS0yeUprZGRyYQ==
+[2025-11-12 20:16:35] 🧮 Acumulados: 121 seguidores...
+[2025-11-12 20:16:37] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCalNtSGFhZVJjVWVUN1BtaThtLUNWUURRZzdIR3pyazMxMHNBelRQeGdNZmRDR250dm9tMmRpMjMzdjhIb2NjbzdPUEQ5OUJYWkpDSElkb3AxbUJSNA==
+[2025-11-12 20:16:37] 🧮 Acumulados: 146 seguidores...
+[2025-11-12 20:16:39] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCeU1LV043cDNWTDM5aFdqaUJJTHRqcDFvSEhZNG8tZ1UtdHdheGpjbVdma0w1WU1zUGpZSzY4NTFfaTRhWUxWSmZWT3ZGcXZBSzVnV3FPMVRGbEZjNw==
+[2025-11-12 20:16:39] 🧮 Acumulados: 170 seguidores...
+[2025-11-12 20:16:41] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBckwtWl9STTFudDVwZG41Y01GOHRyN2VUY2ZZbWxlTGV0MkxFTkdVN3ZqNFNKWV9MRlRLZ3ZGaDFPT3MzR0t6THBtZ1Q0NmVQbEgzWHNqRC1VdFRzcQ==
+[2025-11-12 20:16:42] 🧮 Acumulados: 195 seguidores...
+[2025-11-12 20:16:44] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCVDhkM1AtRTRuYkRYTUZSdVFjNDFUMXlLb1dhbEZpaXo0NHhwSVM0dWxvYTZMRnY1anA3WV9TWEJyMEQtQVp1RlhEQlJJRGhuTTZULXVLN3BjQWV0aA==
+[2025-11-12 20:16:44] 🧮 Acumulados: 220 seguidores...
+[2025-11-12 20:16:46] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCUUFzVTFHbUpKcVJmR3l3a1FXdU55OFhjSnh4WmphcWVIVmtoU0xPMWx3c3M3RjJhYlhMVF9UOWwtenNxLTR3Q1ZRbFhEcFRCWUMwS3pIT1k1UnBCeQ==
+[2025-11-12 20:16:46] 🧮 Acumulados: 244 seguidores...
+[2025-11-12 20:16:48] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBOTRpSkpFLWExaWQ0U0hpRW92WU1lcUZ1NWVoZEVwU01wSmJrbUtzRG84amdHSUpRVW84UmMwTXdMMmEtSFdVYjY1X3dBMHRETzB2SGNyd19YSTNmTw==
+[2025-11-12 20:16:49] 🧮 Acumulados: 269 seguidores...
+[2025-11-12 20:16:51] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEWmVhMnkwTTVVdlZncE45Zm9OVndJekJBOVhjcENERTJwMkhzbUdfNW0tVHNrQmJKZkd5cm5QbzFtQ19hOUE0QktQWW1BWEJYZ1UtWmdseW1pVnBMNA==
+[2025-11-12 20:16:51] 🧮 Acumulados: 293 seguidores...
+[2025-11-12 20:16:53] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDWHY4RXFjSXNPdDVLQkdzSmUzbUttWDIzcjBCMzdTYTlFNTN6U1cwTUsyTmcteUF4TFM5UWRmblZxT2xxMHN2U1VFTDRrOEtTSHdPajZKbjc3dGI4Tw==
+[2025-11-12 20:16:53] 🧮 Acumulados: 316 seguidores...
+[2025-11-12 20:16:53] ⛔ Alcanzado límite máximo de 300 seguidores.
+[2025-11-12 20:27:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:27:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:27:12] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=resaltech_1234
+[2025-11-12 20:27:13] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/63942671663/followers/?count=50
+[2025-11-12 20:27:14] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 20:27:16] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/63942671663/followers/?count=50&max_id=25
+[2025-11-12 20:27:17] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 20:27:19] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/63942671663/followers/?count=50&max_id=50
+[2025-11-12 20:27:20] 🧮 Acumulados: 73 seguidores...
+[2025-11-12 20:27:20] ⛔ Instagram no devolvió más paginación. Fin.
+[2025-11-12 20:36:25] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:36:33] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:36:33] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:36:33] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=chefs_aristega_christina
+[2025-11-12 20:36:34] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50
+[2025-11-12 20:36:35] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 20:36:39] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=25
+[2025-11-12 20:36:39] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 20:36:43] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=50
+[2025-11-12 20:36:44] 🧮 Acumulados: 75 seguidores...
+[2025-11-12 20:36:48] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=75
+[2025-11-12 20:36:49] 🧮 Acumulados: 100 seguidores...
+[2025-11-12 20:36:53] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=100
+[2025-11-12 20:36:54] 🧮 Acumulados: 125 seguidores...
+[2025-11-12 20:36:58] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=125
+[2025-11-12 20:36:59] 🧮 Acumulados: 150 seguidores...
+[2025-11-12 20:37:03] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=150
+[2025-11-12 20:37:04] 🧮 Acumulados: 175 seguidores...
+[2025-11-12 20:37:08] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=175
+[2025-11-12 20:37:09] 🧮 Acumulados: 200 seguidores...
+[2025-11-12 20:37:13] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=200
+[2025-11-12 20:37:14] 🧮 Acumulados: 225 seguidores...
+[2025-11-12 20:37:18] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/48733866971/followers/?count=50&max_id=225
+[2025-11-12 20:37:19] 🧮 Acumulados: 242 seguidores...
+[2025-11-12 20:37:19] ⛔ Instagram no devolvió más paginación. Fin.
+[2025-11-12 20:40:31] ⚠️ Ignorado seguidor da_nna6740 → dígito inválido: 0
+[2025-11-12 20:40:35] ⚠️ Ignorado seguidor wareshanour → dígito inválido: 0
+[2025-11-12 20:50:23] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:51:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:51:12] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:51:12] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=adnlaconcordia_ok
+[2025-11-12 20:51:12] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/78077159192/followers/?count=50
+[2025-11-12 20:51:13] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 20:51:16] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/78077159192/followers/?count=50&max_id=25
+[2025-11-12 20:51:17] 🧮 Acumulados: 32 seguidores...
+[2025-11-12 20:51:17] ⛔ Instagram no devolvió más paginación. Fin.
+[2025-11-12 20:51:18] ⚠️ Respuesta no-JSON para pk=78313192051. Intento 1/3
+[2025-11-12 20:51:21] ⚠️ Respuesta no-JSON para pk=78313192051. Intento 2/3
+[2025-11-12 20:51:24] ⚠️ Respuesta no-JSON para pk=78313192051. Intento 3/3
+[2025-11-12 20:51:25] ⛔ No se pudo obtener followers del pk=78313192051 tras 3 intentos.
+[2025-11-12 20:51:27] ⚠️ Respuesta no-JSON para pk=1657869093. Intento 1/3
+[2025-11-12 20:51:30] ⚠️ Respuesta no-JSON para pk=1657869093. Intento 2/3
+[2025-11-12 20:51:32] ⚠️ Respuesta no-JSON para pk=1657869093. Intento 3/3
+[2025-11-12 20:51:34] ⛔ No se pudo obtener followers del pk=1657869093 tras 3 intentos.
+[2025-11-12 20:51:36] ⚠️ Respuesta no-JSON para pk=76673870768. Intento 1/3
+[2025-11-12 20:51:38] ⚠️ Respuesta no-JSON para pk=76673870768. Intento 2/3
+[2025-11-12 20:51:41] ⚠️ Respuesta no-JSON para pk=76673870768. Intento 3/3
+[2025-11-12 20:51:42] ⛔ No se pudo obtener followers del pk=76673870768 tras 3 intentos.
+[2025-11-12 20:51:44] ⚠️ Respuesta no-JSON para pk=456898412. Intento 1/3
+[2025-11-12 20:55:20] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:55:27] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:55:28] === INICIO DE EJECUCIÓN ===
+[2025-11-12 20:55:28] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=adelitaquirola
+[2025-11-12 20:55:28] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50
+[2025-11-12 20:55:29] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 20:55:31] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=25
+[2025-11-12 20:55:32] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 20:55:34] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=50
+[2025-11-12 20:55:36] 🧮 Acumulados: 75 seguidores...
+[2025-11-12 20:55:38] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=75
+[2025-11-12 20:55:39] 🧮 Acumulados: 100 seguidores...
+[2025-11-12 20:55:41] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=100
+[2025-11-12 20:55:42] 🧮 Acumulados: 125 seguidores...
+[2025-11-12 20:55:44] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=125
+[2025-11-12 20:55:45] 🧮 Acumulados: 150 seguidores...
+[2025-11-12 20:55:47] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=150
+[2025-11-12 20:55:48] 🧮 Acumulados: 175 seguidores...
+[2025-11-12 20:55:50] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=175
+[2025-11-12 20:55:51] 🧮 Acumulados: 200 seguidores...
+[2025-11-12 20:55:53] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=200
+[2025-11-12 20:55:54] 🧮 Acumulados: 225 seguidores...
+[2025-11-12 20:55:56] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=225
+[2025-11-12 20:55:57] 🧮 Acumulados: 243 seguidores...
+[2025-11-12 20:55:59] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=250|QVFETDUxX0NnMV9oUlJxcHRsbnctOXpOUURHUzJwVWxzRHlEVnVKbFZjWkxUd3B5dUZzMjl6UHYwNGNNMmpHUkZ2VmhhSUViWnJVTkg4TUZuaWVjWmtFRQ==
+[2025-11-12 20:56:01] 🧮 Acumulados: 268 seguidores...
+[2025-11-12 20:56:03] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=275|QVFETDUxX0NnMV9oUlJxcHRsbnctOXpOUURHUzJwVWxzRHlEVnVKbFZjWkxUd3B5dUZzMjl6UHYwNGNNMmpHUkZ2VmhhSUViWnJVTkg4TUZuaWVjWmtFRQ==
+[2025-11-12 20:56:03] 🧮 Acumulados: 293 seguidores...
+[2025-11-12 20:56:05] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1775493125/followers/?count=50&max_id=300|QVFETDUxX0NnMV9oUlJxcHRsbnctOXpOUURHUzJwVWxzRHlEVnVKbFZjWkxUd3B5dUZzMjl6UHYwNGNNMmpHUkZ2VmhhSUViWnJVTkg4TUZuaWVjWmtFRQ==
+[2025-11-12 20:56:07] 🧮 Acumulados: 318 seguidores...
+[2025-11-12 20:56:07] ⛔ Alcanzado límite máximo de 300 seguidores.
+[2025-11-12 20:56:09] ⚠️ Respuesta no-JSON para pk=66275287252. Intento 1/3
+[2025-11-12 20:56:12] ⚠️ Respuesta no-JSON para pk=66275287252. Intento 2/3
+[2025-11-12 20:56:15] ⚠️ Respuesta no-JSON para pk=66275287252. Intento 3/3
+[2025-11-12 20:56:17] ⛔ No se pudo obtener followers del pk=66275287252 tras 3 intentos.
+[2025-11-12 20:56:20] ⚠️ Respuesta no-JSON para pk=74684631418. Intento 1/3
+[2025-11-12 20:56:23] ⚠️ Respuesta no-JSON para pk=74684631418. Intento 2/3
+[2025-11-12 20:56:26] ⚠️ Respuesta no-JSON para pk=74684631418. Intento 3/3
+[2025-11-12 20:56:28] ⛔ No se pudo obtener followers del pk=74684631418 tras 3 intentos.
+[2025-11-12 20:56:31] ⚠️ Respuesta no-JSON para pk=76732267247. Intento 1/3
+[2025-11-12 20:56:34] ⚠️ Respuesta no-JSON para pk=76732267247. Intento 2/3
+[2025-11-12 20:56:37] ⚠️ Respuesta no-JSON para pk=76732267247. Intento 3/3
+[2025-11-12 20:56:39] ⛔ No se pudo obtener followers del pk=76732267247 tras 3 intentos.
+[2025-11-12 20:56:42] ⚠️ Respuesta no-JSON para pk=77924419933. Intento 1/3
+[2025-11-12 20:56:45] ⚠️ Respuesta no-JSON para pk=77924419933. Intento 2/3
+[2025-11-12 20:56:48] ⚠️ Respuesta no-JSON para pk=77924419933. Intento 3/3
+[2025-11-12 20:56:50] ⛔ No se pudo obtener followers del pk=77924419933 tras 3 intentos.
+[2025-11-12 20:56:53] ⚠️ Respuesta no-JSON para pk=76234850758. Intento 1/3
+[2025-11-12 20:56:57] ⚠️ Respuesta no-JSON para pk=76234850758. Intento 2/3
+[2025-11-12 20:57:00] ⚠️ Respuesta no-JSON para pk=76234850758. Intento 3/3
+[2025-11-12 20:57:02] ⛔ No se pudo obtener followers del pk=76234850758 tras 3 intentos.
+[2025-11-12 20:57:05] ⚠️ Respuesta no-JSON para pk=72262562219. Intento 1/3
+[2025-11-12 20:57:08] ⚠️ Respuesta no-JSON para pk=72262562219. Intento 2/3
+[2025-11-12 20:57:10] ⚠️ Respuesta no-JSON para pk=72262562219. Intento 3/3
+[2025-11-12 20:57:12] ⛔ No se pudo obtener followers del pk=72262562219 tras 3 intentos.
+[2025-11-12 20:57:15] ⚠️ Respuesta no-JSON para pk=77175190943. Intento 1/3
+[2025-11-12 20:57:18] ⚠️ Respuesta no-JSON para pk=77175190943. Intento 2/3
+[2025-11-12 20:57:21] ⚠️ Respuesta no-JSON para pk=77175190943. Intento 3/3
+[2025-11-12 20:57:23] ⛔ No se pudo obtener followers del pk=77175190943 tras 3 intentos.
+[2025-11-12 20:57:26] ⚠️ Respuesta no-JSON para pk=10199027573. Intento 1/3
+[2025-11-12 20:57:29] ⚠️ Respuesta no-JSON para pk=10199027573. Intento 2/3
+[2025-11-12 20:57:32] ⚠️ Respuesta no-JSON para pk=10199027573. Intento 3/3
+[2025-11-12 20:57:34] ⛔ No se pudo obtener followers del pk=10199027573 tras 3 intentos.
+[2025-11-12 20:57:37] ⚠️ Respuesta no-JSON para pk=72153757025. Intento 1/3
+[2025-11-12 20:57:41] ⚠️ Respuesta no-JSON para pk=72153757025. Intento 2/3
+[2025-11-12 20:57:44] ⚠️ Respuesta no-JSON para pk=72153757025. Intento 3/3
+[2025-11-12 20:57:46] ⛔ No se pudo obtener followers del pk=72153757025 tras 3 intentos.
+[2025-11-12 20:57:49] ⚠️ Respuesta no-JSON para pk=2237608791. Intento 1/3
+[2025-11-12 20:57:54] ⚠️ Respuesta no-JSON para pk=2237608791. Intento 2/3
+[2025-11-12 20:57:57] ⚠️ Respuesta no-JSON para pk=2237608791. Intento 3/3
+[2025-11-12 20:57:59] ⛔ No se pudo obtener followers del pk=2237608791 tras 3 intentos.
+[2025-11-12 20:58:02] ⚠️ Respuesta no-JSON para pk=74565628598. Intento 1/3
+[2025-11-12 20:58:05] ⚠️ Respuesta no-JSON para pk=74565628598. Intento 2/3
+[2025-11-12 20:58:08] ⚠️ Respuesta no-JSON para pk=74565628598. Intento 3/3
+[2025-11-12 20:58:10] ⛔ No se pudo obtener followers del pk=74565628598 tras 3 intentos.
+[2025-11-12 20:58:13] ⚠️ Respuesta no-JSON para pk=65868010340. Intento 1/3
+[2025-11-12 20:58:16] ⚠️ Respuesta no-JSON para pk=65868010340. Intento 2/3
+[2025-11-12 20:58:20] ⚠️ Respuesta no-JSON para pk=65868010340. Intento 3/3
+[2025-11-12 20:58:22] ⛔ No se pudo obtener followers del pk=65868010340 tras 3 intentos.
+[2025-11-12 20:58:25] ⚠️ Respuesta no-JSON para pk=46834700376. Intento 1/3
+[2025-11-12 20:58:28] ⚠️ Respuesta no-JSON para pk=46834700376. Intento 2/3
+[2025-11-12 20:58:31] ⚠️ Respuesta no-JSON para pk=46834700376. Intento 3/3
+[2025-11-12 20:58:33] ⛔ No se pudo obtener followers del pk=46834700376 tras 3 intentos.
+[2025-11-12 20:58:36] ⚠️ Respuesta no-JSON para pk=75729843453. Intento 1/3
+[2025-11-12 20:58:39] ⚠️ Respuesta no-JSON para pk=75729843453. Intento 2/3
+[2025-11-12 20:58:42] ⚠️ Respuesta no-JSON para pk=75729843453. Intento 3/3
+[2025-11-12 20:58:44] ⛔ No se pudo obtener followers del pk=75729843453 tras 3 intentos.
+[2025-11-12 20:58:47] ⚠️ Respuesta no-JSON para pk=74996298614. Intento 1/3
+[2025-11-12 20:58:50] ⚠️ Respuesta no-JSON para pk=74996298614. Intento 2/3
+[2025-11-12 20:58:53] ⚠️ Respuesta no-JSON para pk=74996298614. Intento 3/3
+[2025-11-12 20:58:55] ⛔ No se pudo obtener followers del pk=74996298614 tras 3 intentos.
+[2025-11-12 20:58:58] ⚠️ Respuesta no-JSON para pk=77355652085. Intento 1/3
+[2025-11-12 20:59:01] ⚠️ Respuesta no-JSON para pk=77355652085. Intento 2/3
+[2025-11-12 20:59:04] ⚠️ Respuesta no-JSON para pk=77355652085. Intento 3/3
+[2025-11-12 20:59:06] ⛔ No se pudo obtener followers del pk=77355652085 tras 3 intentos.
+[2025-11-12 20:59:09] ⚠️ Respuesta no-JSON para pk=43372765732. Intento 1/3
+[2025-11-12 20:59:12] ⚠️ Respuesta no-JSON para pk=43372765732. Intento 2/3
+[2025-11-12 20:59:15] ⚠️ Respuesta no-JSON para pk=43372765732. Intento 3/3
+[2025-11-12 20:59:17] ⛔ No se pudo obtener followers del pk=43372765732 tras 3 intentos.
+[2025-11-12 20:59:20] ⚠️ Respuesta no-JSON para pk=54511482442. Intento 1/3
+[2025-11-12 20:59:23] ⚠️ Respuesta no-JSON para pk=54511482442. Intento 2/3
+[2025-11-12 20:59:26] ⚠️ Respuesta no-JSON para pk=54511482442. Intento 3/3
+[2025-11-12 20:59:28] ⛔ No se pudo obtener followers del pk=54511482442 tras 3 intentos.
+[2025-11-12 20:59:31] ⚠️ Respuesta no-JSON para pk=46456321432. Intento 1/3
+[2025-11-12 20:59:34] ⚠️ Respuesta no-JSON para pk=46456321432. Intento 2/3
+[2025-11-12 20:59:37] ⚠️ Respuesta no-JSON para pk=46456321432. Intento 3/3
+[2025-11-12 20:59:39] ⛔ No se pudo obtener followers del pk=46456321432 tras 3 intentos.
+[2025-11-12 20:59:43] ⚠️ Respuesta no-JSON para pk=76537969113. Intento 1/3
+[2025-11-12 20:59:46] ⚠️ Respuesta no-JSON para pk=76537969113. Intento 2/3
+[2025-11-12 20:59:49] ⚠️ Respuesta no-JSON para pk=76537969113. Intento 3/3
+[2025-11-12 20:59:51] ⛔ No se pudo obtener followers del pk=76537969113 tras 3 intentos.
+[2025-11-12 20:59:54] ⚠️ Respuesta no-JSON para pk=58272611286. Intento 1/3
+[2025-11-12 20:59:57] ⚠️ Respuesta no-JSON para pk=58272611286. Intento 2/3
+[2025-11-12 21:00:00] ⚠️ Respuesta no-JSON para pk=58272611286. Intento 3/3
+[2025-11-12 21:00:02] ⛔ No se pudo obtener followers del pk=58272611286 tras 3 intentos.
+[2025-11-12 21:00:05] ⚠️ Respuesta no-JSON para pk=74948280798. Intento 1/3
+[2025-11-12 21:00:08] ⚠️ Respuesta no-JSON para pk=74948280798. Intento 2/3
+[2025-11-12 21:00:11] ⚠️ Respuesta no-JSON para pk=74948280798. Intento 3/3
+[2025-11-12 21:00:13] ⛔ No se pudo obtener followers del pk=74948280798 tras 3 intentos.
+[2025-11-12 21:00:16] ⚠️ Respuesta no-JSON para pk=2260643079. Intento 1/3
+[2025-11-12 21:00:19] ⚠️ Respuesta no-JSON para pk=2260643079. Intento 2/3
+[2025-11-12 21:00:22] ⚠️ Respuesta no-JSON para pk=2260643079. Intento 3/3
+[2025-11-12 21:00:24] ⛔ No se pudo obtener followers del pk=2260643079 tras 3 intentos.
+[2025-11-12 21:00:27] ⚠️ Respuesta no-JSON para pk=75578403895. Intento 1/3
+[2025-11-12 21:00:28] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:00:30] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:00:30] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 21:00:30] ⚠️ Respuesta no-JSON para pk=75578403895. Intento 2/3
+[2025-11-12 21:00:30] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50
+[2025-11-12 21:00:31] 🧮 Acumulados: 24 seguidores...
+[2025-11-12 21:00:33] ⚠️ Respuesta no-JSON para pk=75578403895. Intento 3/3
+[2025-11-12 21:00:33] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEQ21ZeGJmQlZPalVIT0h3M3Bvd3dDbVFSMTZSaEJxaHhvYmpCbC1LNXNNc2NZQU82aUQtSjF0T0I4SVZ4d0thRDl0N2hPYXZpVmpyLURDY0tNVWtTMg==
+[2025-11-12 21:00:33] 🧮 Acumulados: 46 seguidores...
+[2025-11-12 21:00:35] ⛔ No se pudo obtener followers del pk=75578403895 tras 3 intentos.
+[2025-11-12 21:00:35] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBTU5WZUt1Vms4d2NRTkhKVDc1UkE1Sy1WWk5Rc0k1WTRvX1ZGamhUakpDajdTc2hoTGZKNzA3cGQxYTQweHF0UXRVdl9hVnVJd05Bb3dSLVk3ZzdiaQ==
+[2025-11-12 21:00:36] 🧮 Acumulados: 71 seguidores...
+[2025-11-12 21:00:38] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEel9lT1NnUE5acW9nSnZ3a1VZT0tXWElXNUdqS2VUbkJzN2huVkRVNHBlakhJRkI0eDZ0eThBb0NXRW8teXNZa1JSc3UtcVNWek9zWjItaDBsWEJFZQ==
+[2025-11-12 21:00:38] 🧮 Acumulados: 96 seguidores...
+[2025-11-12 21:00:39] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 1/3
+[2025-11-12 21:00:40] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDWGFFY0Y0UDMxb29iNHI4TzA3NmM3MW9zY3Z1a3BMWmo4YXJuVnNaMmIzTzFfMEQtUWhqLXJDZ2lkd3FLZkNFR09kZVZLLXpXMThXMF9EWnlJS3pYcw==
+[2025-11-12 21:00:40] 🧮 Acumulados: 121 seguidores...
+[2025-11-12 21:00:42] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 2/3
+[2025-11-12 21:00:42] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBaDFTRUlETWhTLUx5UGpDQzZZeGE5MG5RVEtHcU51QTdmVHFsNUh5SmFNQ0lQWXlPWW5uQkgzMGtYYm5vR3dlbUxZelAzYVhiNXpiaktvV3RUUkxiTA==
+[2025-11-12 21:00:43] 🧮 Acumulados: 146 seguidores...
+[2025-11-12 21:00:45] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEbHZwZmM2QW9qamVtRFU1WkpaeUFia1Z6UDB3ZERKUGVCTW9KOUdDZG1JY0JaZVNldDljUExqT2ZtSHJDcnJqYnNpenI1UmFMYlVZZ21yQUl6VHN1UA==
+[2025-11-12 21:00:45] 🧮 Acumulados: 170 seguidores...
+[2025-11-12 21:00:45] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 3/3
+[2025-11-12 21:00:47] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDMEtQT09tLTVmQnhGZENWdVZlNENmYVRveFBLckdCVXN1aFFRSEwxdnVnLWx1MW5mZ0JnTTcxUU9CMTJISjVvZVg2UnBKbUxYRGRzX3ltSlBKVUI2ag==
+[2025-11-12 21:00:47] ⛔ No se pudo obtener followers del pk=12138718296 tras 3 intentos.
+[2025-11-12 21:00:47] 🧮 Acumulados: 195 seguidores...
+[2025-11-12 21:00:49] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEZHktUjNsVFRyTHV4d0xiM0k0UksybkV4dld0SV9BYkpqU2JKV0RBQWxtNV9uaFpZMDFuWUVzVlZiQjcyUngyNkNtaWE3aVV6S1UyR3VnSkR4RFpNNg==
+[2025-11-12 21:00:50] 🧮 Acumulados: 220 seguidores...
+[2025-11-12 21:00:50] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 1/3
+[2025-11-12 21:00:52] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCZEYtZGJxbTJmTVY1eHd1TEVVT1pkNDZXQzhKSlZEcU9wUVNsN1hLcy00MXJ1eVJOeGNiZk14eGFRWmtCbHZLRjVNaVhKM1lwWjUzemJzM2V4dmlQQg==
+[2025-11-12 21:00:52] 🧮 Acumulados: 244 seguidores...
+[2025-11-12 21:00:53] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 2/3
+[2025-11-12 21:00:54] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBcU45dnlUcW9jOXMtbFR0QnBseWZwNFMyTnVhZHFTZHNOYXpQajVVV3Y5MnRIQmJTYURacmNFMXhWUUxPbk1uSTBfNjMtT3Rqb2p5VnZOXzhqUnMtbg==
+[2025-11-12 21:00:54] 🧮 Acumulados: 269 seguidores...
+[2025-11-12 21:00:56] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBRVBrdjZmRF9FY0I1RUJBX3ZSWFdSOGJScVJhVm5oWTgxcmE1czBJQXdVeUlDZ2RSaFd2TDBlUmd0RTlTRkN6emo2SVFNVzZJTU9EWGZmYTRxbVNjMQ==
+[2025-11-12 21:00:56] ⚠️ Respuesta no-JSON para pk=12138718296. Intento 3/3
+[2025-11-12 21:00:57] 🧮 Acumulados: 293 seguidores...
+[2025-11-12 21:00:58] ⛔ No se pudo obtener followers del pk=12138718296 tras 3 intentos.
+[2025-11-12 21:00:59] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBbS1YVUluVVRMMTNJbTZURkFJTTZBWmNNTE5iOTFqelpsOW1pOG1RVFh0c3VIZkdhV29ZZ084ellIaDY2QkpSakRwR0kxNGtxYUZEQ25JXy1RaGlfTw==
+[2025-11-12 21:00:59] 🧮 Acumulados: 316 seguidores...
+[2025-11-12 21:00:59] ⛔ Alcanzado límite máximo de 300 seguidores.
+[2025-11-12 21:01:00] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 1/3
+[2025-11-12 21:01:01] ⚠️ Respuesta no-JSON para pk=74457902761. Intento 1/3
+[2025-11-12 21:01:03] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 2/3
+[2025-11-12 21:01:04] ⚠️ Respuesta no-JSON para pk=74457902761. Intento 2/3
+[2025-11-12 21:01:06] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 3/3
+[2025-11-12 21:01:07] ⚠️ Respuesta no-JSON para pk=74457902761. Intento 3/3
+[2025-11-12 21:01:08] ⛔ No se pudo obtener followers del pk=1563076113 tras 3 intentos.
+[2025-11-12 21:01:09] ⛔ No se pudo obtener followers del pk=74457902761 tras 3 intentos.
+[2025-11-12 21:01:11] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 1/3
+[2025-11-12 21:01:12] ⚠️ Respuesta no-JSON para pk=7315994721. Intento 1/3
+[2025-11-12 21:01:14] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 2/3
+[2025-11-12 21:01:15] ⚠️ Respuesta no-JSON para pk=7315994721. Intento 2/3
+[2025-11-12 21:01:17] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 3/3
+[2025-11-12 21:01:18] ⚠️ Respuesta no-JSON para pk=7315994721. Intento 3/3
+[2025-11-12 21:01:19] ⛔ No se pudo obtener followers del pk=6984721619 tras 3 intentos.
+[2025-11-12 21:01:20] ⛔ No se pudo obtener followers del pk=7315994721 tras 3 intentos.
+[2025-11-12 21:01:22] ⚠️ Respuesta no-JSON para pk=2267733864. Intento 1/3
+[2025-11-12 21:01:23] ⚠️ Respuesta no-JSON para pk=76282749628. Intento 1/3
+[2025-11-12 21:01:25] ⚠️ Respuesta no-JSON para pk=2267733864. Intento 2/3
+[2025-11-12 21:01:26] ⚠️ Respuesta no-JSON para pk=76282749628. Intento 2/3
+[2025-11-12 21:01:27] ⚠️ Respuesta no-JSON para pk=2267733864. Intento 3/3
+[2025-11-12 21:01:29] ⚠️ Respuesta no-JSON para pk=76282749628. Intento 3/3
+[2025-11-12 21:01:31] ⛔ No se pudo obtener followers del pk=76282749628 tras 3 intentos.
+[2025-11-12 21:01:34] ⚠️ Respuesta no-JSON para pk=77813904960. Intento 1/3
+[2025-11-12 21:01:37] ⚠️ Respuesta no-JSON para pk=77813904960. Intento 2/3
+[2025-11-12 21:01:40] ⚠️ Respuesta no-JSON para pk=77813904960. Intento 3/3
+[2025-11-12 21:01:42] ⛔ No se pudo obtener followers del pk=77813904960 tras 3 intentos.
+[2025-11-12 21:01:45] ⚠️ Respuesta no-JSON para pk=4172355610. Intento 1/3
+[2025-11-12 21:01:48] ⚠️ Respuesta no-JSON para pk=4172355610. Intento 2/3
+[2025-11-12 21:01:51] ⚠️ Respuesta no-JSON para pk=4172355610. Intento 3/3
+[2025-11-12 21:01:53] ⛔ No se pudo obtener followers del pk=4172355610 tras 3 intentos.
+[2025-11-12 21:01:56] ⚠️ Respuesta no-JSON para pk=48894246185. Intento 1/3
+[2025-11-12 21:01:59] ⚠️ Respuesta no-JSON para pk=48894246185. Intento 2/3
+[2025-11-12 21:02:02] ⚠️ Respuesta no-JSON para pk=48894246185. Intento 3/3
+[2025-11-12 21:02:04] ⛔ No se pudo obtener followers del pk=48894246185 tras 3 intentos.
+[2025-11-12 21:02:07] ⚠️ Respuesta no-JSON para pk=71404142485. Intento 1/3
+[2025-11-12 21:02:10] ⚠️ Respuesta no-JSON para pk=71404142485. Intento 2/3
+[2025-11-12 21:02:13] ⚠️ Respuesta no-JSON para pk=71404142485. Intento 3/3
+[2025-11-12 21:02:15] ⛔ No se pudo obtener followers del pk=71404142485 tras 3 intentos.
+[2025-11-12 21:02:18] ⚠️ Respuesta no-JSON para pk=5777712743. Intento 1/3
+[2025-11-12 21:02:21] ⚠️ Respuesta no-JSON para pk=5777712743. Intento 2/3
+[2025-11-12 21:02:24] ⚠️ Respuesta no-JSON para pk=5777712743. Intento 3/3
+[2025-11-12 21:02:26] ⛔ No se pudo obtener followers del pk=5777712743 tras 3 intentos.
+[2025-11-12 21:02:29] ⚠️ Respuesta no-JSON para pk=67132358280. Intento 1/3
+[2025-11-12 21:02:32] ⚠️ Respuesta no-JSON para pk=67132358280. Intento 2/3
+[2025-11-12 21:02:35] ⚠️ Respuesta no-JSON para pk=67132358280. Intento 3/3
+[2025-11-12 21:02:37] ⛔ No se pudo obtener followers del pk=67132358280 tras 3 intentos.
+[2025-11-12 21:02:40] ⚠️ Respuesta no-JSON para pk=47186448420. Intento 1/3
+[2025-11-12 21:02:43] ⚠️ Respuesta no-JSON para pk=47186448420. Intento 2/3
+[2025-11-12 21:02:47] ⚠️ Respuesta no-JSON para pk=47186448420. Intento 3/3
+[2025-11-12 21:02:49] ⛔ No se pudo obtener followers del pk=47186448420 tras 3 intentos.
+[2025-11-12 21:02:52] ⚠️ Respuesta no-JSON para pk=77358697380. Intento 1/3
+[2025-11-12 21:02:55] ⚠️ Respuesta no-JSON para pk=77358697380. Intento 2/3
+[2025-11-12 21:02:58] ⚠️ Respuesta no-JSON para pk=77358697380. Intento 3/3
+[2025-11-12 21:03:00] ⛔ No se pudo obtener followers del pk=77358697380 tras 3 intentos.
+[2025-11-12 21:03:03] ⚠️ Respuesta no-JSON para pk=75387754708. Intento 1/3
+[2025-11-12 21:03:06] ⚠️ Respuesta no-JSON para pk=75387754708. Intento 2/3
+[2025-11-12 21:03:09] ⚠️ Respuesta no-JSON para pk=75387754708. Intento 3/3
+[2025-11-12 21:03:11] ⛔ No se pudo obtener followers del pk=75387754708 tras 3 intentos.
+[2025-11-12 21:03:14] ⚠️ Respuesta no-JSON para pk=1688343375. Intento 1/3
+[2025-11-12 21:03:16] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:03:16] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=wsvargas15
+[2025-11-12 21:03:17] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50
+[2025-11-12 21:03:17] ⚠️ Respuesta no-JSON para pk=1688343375. Intento 2/3
+[2025-11-12 21:03:17] 🧮 Acumulados: 24 seguidores...
+[2025-11-12 21:03:19] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBZWhMd1JBVU05a1RaRGVwVTFMM2VvY3M1WF94cmwxZjdwWVdJMW9XNkpMbGFLdF9BNzZTV0h6VHZVdmZvUG9QR3NEYTJfVk5mc1JwMnhiTzRiOWhsZg==
+[2025-11-12 21:03:20] 🧮 Acumulados: 46 seguidores...
+[2025-11-12 21:03:20] ⚠️ Respuesta no-JSON para pk=1688343375. Intento 3/3
+[2025-11-12 21:03:22] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBY0FaSGt3d011VGo0dTdtOWhsWFFfamdodXVCel9qNGVZdjAybnBxTGpfOTZtRzJjeVg3b19jbFRmMlBDZW12SUtRRGdkUTU0MElIb0pJTmFuMllyaw==
+[2025-11-12 21:03:22] ⛔ No se pudo obtener followers del pk=1688343375 tras 3 intentos.
+[2025-11-12 21:03:22] 🧮 Acumulados: 71 seguidores...
+[2025-11-12 21:03:24] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEWnVCdWlvTWtkdmZONlNyMFp3NURrTkd1MlkzWDljckV3Rl83cmlDcnZ2aGxoUGdOS3BBMmJMbnN0SHBCN05rTzdOeHhHZzB0UHhycE9RcUxZWTRUNg==
+[2025-11-12 21:03:24] 🧮 Acumulados: 96 seguidores...
+[2025-11-12 21:03:25] ⚠️ Respuesta no-JSON para pk=2262901966. Intento 1/3
+[2025-11-12 21:03:26] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCRGw5N080ck1LcVdvMFY4M2NnQUprbl9oNENxdEVVakFlZnBldjdrOGJVQ1JiNHhhZ2xlRXFxLV92ZXVOajVyaVk1dW9xY3BhSGhlQXNna2pudW1qSw==
+[2025-11-12 21:03:27] 🧮 Acumulados: 121 seguidores...
+[2025-11-12 21:03:28] ⚠️ Respuesta no-JSON para pk=2262901966. Intento 2/3
+[2025-11-12 21:03:29] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDLWw5d2pTWm1uMkY1MVA0eVp4RXdGOExpc2ZYeTBZOTJGQWdNM1VaYXplNlF4ZWkxUnRhSVRWTTJCcmU5Umt4SWp5UngyOUF5Z3VkTXBpLTVkb3Rtcw==
+[2025-11-12 21:03:29] 🧮 Acumulados: 146 seguidores...
+[2025-11-12 21:03:31] ⚠️ Respuesta no-JSON para pk=2262901966. Intento 3/3
+[2025-11-12 21:03:31] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFEcTNnbGFkdUItcjNKV3pJajR4b0Y1dUNfUkE2VEMwdEQ1OEhodnlNTmliNUN3YXlkVklpVUx3ZktVMzlzY0Q2ZFcxN2lEV2NHNF9JWFlCU1lKc01yXw==
+[2025-11-12 21:03:31] 🧮 Acumulados: 170 seguidores...
+[2025-11-12 21:03:33] ⛔ No se pudo obtener followers del pk=2262901966 tras 3 intentos.
+[2025-11-12 21:03:33] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDbW9qX0p1bjRxbU94MGI5TzBTT1pmblZZM2NwSnJUM1ZGZlFqUVpWZi0yaTJZVWZlb0k2a3hjZkxGdTJQcmRGNjVfVy1DeGpwYkRMcTNZaFFQbGtNUA==
+[2025-11-12 21:03:34] 🧮 Acumulados: 195 seguidores...
+[2025-11-12 21:03:36] ⚠️ Respuesta no-JSON para pk=1043332528. Intento 1/3
+[2025-11-12 21:03:36] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCZ21xWjRFR3kwM0Z2T2ZfeDg3Yko5V09pUzRyc1QzaWR6VkpSUkhWVkRaNzFsUmRESlB4SjFCSUVkeGRlaWRib0N3UjJBaTdQc0NkQzFCVkUzNFlXcA==
+[2025-11-12 21:03:36] 🧮 Acumulados: 220 seguidores...
+[2025-11-12 21:03:38] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFDYmNsT2hld1N3ZkZZaGJ1TU9sY01ObzNfZEtwZjkxSnk2MUpwMHFmdkNfd2lOaE56WTR2UU9YZThuT2ljcExGMDRNeUpIanlEcEhaaXYtbmlGQkZuVA==
+[2025-11-12 21:03:38] 🧮 Acumulados: 244 seguidores...
+[2025-11-12 21:03:39] ⚠️ Respuesta no-JSON para pk=1043332528. Intento 2/3
+[2025-11-12 21:03:40] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFCY0Y0dk1BYVI2UFRtcy1DckFtb0VvZFJnR2tPQ2NTV3g5OXpDMEdMaUlja2E5RHRORWpWZ0VMRkxrbFo5YUVEM2RDS3RFVWxYSDNqaFdWbThIb1JQTQ==
+[2025-11-12 21:03:41] 🧮 Acumulados: 269 seguidores...
+[2025-11-12 21:03:42] ⚠️ Respuesta no-JSON para pk=1043332528. Intento 3/3
+[2025-11-12 21:03:43] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBVHdSNXpnWHJtbnlXSnVKZFdPcDM4TWRMaFRtOU9mMmY0R3VkNEtBbGlMS0lrT3ZkOURiVlhhb05UYmlNb24wYlVLZl9HWHpIcmJWQmc1Nm5BVXZUTw==
+[2025-11-12 21:03:43] 🧮 Acumulados: 293 seguidores...
+[2025-11-12 21:03:44] ⛔ No se pudo obtener followers del pk=1043332528 tras 3 intentos.
+[2025-11-12 21:03:45] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1540634135/followers/?count=50&max_id=QVFBQVlfOUxwVjhOdWFSU3VKME1zYVVoanRfNVpOS0RIWC1tUGZLRjhnZDNGUHI0anVSWlpTN1RQREd2RXpJUGhMU0VUWTRacllUX2pVNDJ0bHRtMGIyVw==
+[2025-11-12 21:03:45] 🧮 Acumulados: 316 seguidores...
+[2025-11-12 21:03:45] ⛔ Alcanzado límite máximo de 300 seguidores.
+[2025-11-12 21:03:46] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:03:46] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 1/3
+[2025-11-12 21:03:47] ⚠️ Respuesta no-JSON para pk=3007987377. Intento 1/3
+[2025-11-12 21:03:49] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 2/3
+[2025-11-12 21:03:50] ⚠️ Respuesta no-JSON para pk=3007987377. Intento 2/3
+[2025-11-12 21:03:52] ⚠️ Respuesta no-JSON para pk=1563076113. Intento 3/3
+[2025-11-12 21:03:53] ⚠️ Respuesta no-JSON para pk=3007987377. Intento 3/3
+[2025-11-12 21:03:54] ⛔ No se pudo obtener followers del pk=1563076113 tras 3 intentos.
+[2025-11-12 21:03:55] ⛔ No se pudo obtener followers del pk=3007987377 tras 3 intentos.
+[2025-11-12 21:03:57] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:03:57] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 1/3
+[2025-11-12 21:03:58] ⚠️ Respuesta no-JSON para pk=5880852972. Intento 1/3
+[2025-11-12 21:04:00] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 2/3
+[2025-11-12 21:04:01] ⚠️ Respuesta no-JSON para pk=5880852972. Intento 2/3
+[2025-11-12 21:04:03] ⚠️ Respuesta no-JSON para pk=6984721619. Intento 3/3
+[2025-11-12 21:04:04] ⚠️ Respuesta no-JSON para pk=5880852972. Intento 3/3
+[2025-11-12 21:04:05] ⛔ No se pudo obtener followers del pk=6984721619 tras 3 intentos.
+[2025-11-12 21:04:06] ⛔ No se pudo obtener followers del pk=5880852972 tras 3 intentos.
+[2025-11-12 21:04:08] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:04:08] ⚠️ Respuesta no-JSON para pk=2267733864. Intento 1/3
+[2025-11-12 21:04:09] ⚠️ Respuesta no-JSON para pk=1442691430. Intento 1/3
+[2025-11-12 21:04:11] ⚠️ Respuesta no-JSON para pk=1442691430. Intento 2/3
+[2025-11-12 21:04:12] ⚠️ Respuesta no-JSON para pk=2267733864. Intento 2/3
+[2025-11-12 21:23:24] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:23:24] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:23:24] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:24:17] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:24:49] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:24:49] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:24:49] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=lacasadeljoyero.ec
+[2025-11-12 21:24:49] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/1975719732/followers/?count=50
+[2025-11-12 21:24:51] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 21:24:51] ⛔ Instagram no devolvió más paginación. Fin.
+[2025-11-12 21:24:51] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:24:51] ⚠️ Respuesta no-JSON para pk=2343056246. Intento 1/3
+[2025-11-12 21:24:57] ⚠️ Respuesta no-JSON para pk=2343056246. Intento 2/3
+[2025-11-12 21:25:04] ⚠️ Respuesta no-JSON para pk=2343056246. Intento 3/3
+[2025-11-12 21:25:09] ⛔ No se pudo obtener followers del pk=2343056246 tras 3 intentos.
+[2025-11-12 21:25:15] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:25:15] ⚠️ Respuesta no-JSON para pk=5513507457. Intento 1/3
+[2025-11-12 21:25:20] ⚠️ Respuesta no-JSON para pk=5513507457. Intento 2/3
+[2025-11-12 21:25:28] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:25:43] === INICIO DE EJECUCIÓN ===
+[2025-11-12 21:25:43] Accediendo a URL: https://www.instagram.com/api/v1/users/web_profile_info/?username=doomcaowo
+[2025-11-12 21:25:44] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50
+[2025-11-12 21:25:45] 🧮 Acumulados: 25 seguidores...
+[2025-11-12 21:25:50] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=25
+[2025-11-12 21:25:52] 🧮 Acumulados: 50 seguidores...
+[2025-11-12 21:25:57] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=50
+[2025-11-12 21:25:59] 🧮 Acumulados: 75 seguidores...
+[2025-11-12 21:26:04] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=75
+[2025-11-12 21:26:05] 🧮 Acumulados: 100 seguidores...
+[2025-11-12 21:26:10] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=100
+[2025-11-12 21:26:12] 🧮 Acumulados: 125 seguidores...
+[2025-11-12 21:26:17] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=125
+[2025-11-12 21:26:18] 🧮 Acumulados: 150 seguidores...
+[2025-11-12 21:26:23] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=150
+[2025-11-12 21:26:25] 🧮 Acumulados: 175 seguidores...
+[2025-11-12 21:26:30] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=175
+[2025-11-12 21:26:31] 🧮 Acumulados: 200 seguidores...
+[2025-11-12 21:26:36] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=200
+[2025-11-12 21:26:37] 🧮 Acumulados: 225 seguidores...
+[2025-11-12 21:26:42] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=225
+[2025-11-12 21:26:44] 🧮 Acumulados: 250 seguidores...
+[2025-11-12 21:26:49] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=250
+[2025-11-12 21:26:50] 🧮 Acumulados: 275 seguidores...
+[2025-11-12 21:26:55] Consultando seguidores paginados: https://www.instagram.com/api/v1/friendships/3280960795/followers/?count=50&max_id=275
+[2025-11-12 21:26:57] 🧮 Acumulados: 300 seguidores...
+[2025-11-12 21:26:57] ⛔ Alcanzado límite máximo de 300 seguidores.
+[2025-11-12 21:26:58] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:26:58] ⚠️ Respuesta no-JSON para pk=1540634135. Intento 1/3
+[2025-11-12 21:27:04] ⚠️ Respuesta no-JSON para pk=1540634135. Intento 2/3
+[2025-11-12 21:27:10] ⚠️ Respuesta no-JSON para pk=1540634135. Intento 3/3
+[2025-11-12 21:27:15] ⛔ No se pudo obtener followers del pk=1540634135 tras 3 intentos.
+[2025-11-12 21:27:21] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:27:21] ⚠️ Respuesta no-JSON para pk=59304074772. Intento 1/3
+[2025-11-12 21:27:27] ⚠️ Respuesta no-JSON para pk=59304074772. Intento 2/3
+[2025-11-12 21:27:33] ⚠️ Respuesta no-JSON para pk=59304074772. Intento 3/3
+[2025-11-12 21:27:38] ⛔ No se pudo obtener followers del pk=59304074772 tras 3 intentos.
+[2025-11-12 21:27:44] ⚠️ Guardado HTML de bloqueo en respuesta_bloqueo.html
+[2025-11-12 21:27:44] ⚠️ Respuesta no-JSON para pk=1559556034. Intento 1/3
+[2025-11-12 21:27:50] ⚠️ Respuesta no-JSON para pk=1559556034. Intento 2/3
