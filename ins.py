@@ -83,7 +83,7 @@ def get_user_id(username):
     return uid, total_followers
 
 
-def get_all_followers(user_id, max_total=300):
+def get_all_followers(user_id, max_total=550):
     """
     Obtiene seguidores con paginación real.
     Instagram devuelve aprox 12–50 por página.
@@ -132,7 +132,7 @@ def get_all_followers(user_id, max_total=300):
             break
 
         # Delay anti-bloqueo entre páginas
-        time.sleep(5 + (os.getpid() % 3))
+        time.sleep(2 + (os.getpid() % 3))
 
     return followers
 
@@ -250,7 +250,7 @@ if st.button("Analizar"):
     st.success(f"📌 Total de seguidores del usuario **{username}**: **{total_followers:,}**")
 
     st.info("📌 Obteniendo primeros seguidores…")
-    seguidores = get_all_followers(user_id, max_total=300)
+    seguidores = get_all_followers(user_id, max_total=550)
 
 
     data_list = []
@@ -396,13 +396,5 @@ if st.button("Analizar"):
 
     st.session_state["excel_data"] = buffer.getvalue()
 
-    # ===============================
-    #  BOTÓN DE DESCARGA SIN RESET
-    # ===============================
 
-    st.download_button(
-        label="📥 Descargar Excel de Seguidores Analizados",
-        data=st.session_state["excel_data"],
-        file_name=f"{username}_benford.xlsx",
-        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-    )
+    
